@@ -90,6 +90,48 @@ border-radius: 10px 10px;
 border-radius: 10px 10px;
 }
 
+.cont {
+background-color: #2c2c2c;
+box-shadow: 0 10px 15px rgba(0, 0, 0, 0.356); /* Adding a shadow */
+padding: 15px 32px;
+padding: 20px;
+font-size: 16px;
+margin: 4px 2px;
+color: #cccccc;
+cursor: pointer;
+border-radius: 10px;
+}
+
+.contr {
+  background-color: #2c2c2c;
+  box-shadow: 0 10px 15px rgba(0, 0, 0, 0.356); /* Adding a shadow */
+  color: #cccccc;
+  border: solid 2px white;
+  float: right;
+  width: 25%;
+  padding: 20px;
+  border-radius: 10px;
+  }
+
+.fs {
+  width: 50px;
+  cursor: pointer;
+  height: 50px;
+}
+
+.fuls {
+  all: unset;
+}
+
+.iframer {
+  height: 400px;
+  width: 800px;
+  box-shadow: 0 10px 15px rgba(0, 0, 0, 0.356); /* Adding a shadow */
+  overflow: hidden;
+  float: left;
+  border-radius: 10px;
+}
+
 .btn {
 all: unset;
 background-color: #2c2c2c;
